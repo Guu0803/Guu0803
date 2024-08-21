@@ -1,4 +1,4 @@
-# Olá! 👋 Me chamo, Gustavo Bem-vindo ao Meu GitHub! 
+# Olá! 👋 Me chamo Gustavo, Bem-vindo ao Meu GitHub! 
 
 👷🏽 Formado em Engenharia Civil.
 
