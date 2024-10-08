@@ -33,8 +33,9 @@
 
 - **Outras Competências:**
   - Gerenciamento de Projetos
-  - Comunicação Eficaz
+  - Comunicação clara e objetiva
   - Resolução de Problemas
+  - Trabalho em grupo
 
 ## 📈 Estatísticas do GitHub
 
