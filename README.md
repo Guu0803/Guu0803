@@ -39,7 +39,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameGuu0803&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guu0803&show_icons=true&theme=dark)
 ## 🤝 Conecte-se Comigo
 
 
