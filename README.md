@@ -37,13 +37,7 @@
   - Resolução de Problemas
   - Trabalho em grupo
 
-## 📈 Estatísticas do GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guu0803&show_icons=true&theme=dark)
 ## 🤝 Conecte-se Comigo
-
-
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-nogueira-deranzani-bicudo-11659a221)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-nogueira-deranzani-bicudo-11659a221)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Guu0803)
